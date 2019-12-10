@@ -24,3 +24,4 @@ class TestLogin(unittest.TestCase):
         print("登陆成功后的headers值为: ",api.headers)
         # 断言
         assert_common(self,r)
+
