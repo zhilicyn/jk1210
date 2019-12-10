@@ -352,7 +352,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="673" y="0" width="858" height="824" extended-state="1" />
+    <frame x="673" y="0" width="858" height="824" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19829683" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
