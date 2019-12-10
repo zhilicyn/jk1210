@@ -1,6 +1,5 @@
 import os
 
-
 """
 os.path.abspath(__file__) --> 获取当前文件绝对路径
 os.path.dirname() --> 截取目录部分,获得的刚好是项目目录
